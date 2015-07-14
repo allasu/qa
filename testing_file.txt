@@ -1,1 +1,3 @@
 Hello, Alex!
+
+I am learning Git successfully.
